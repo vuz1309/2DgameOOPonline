@@ -1,0 +1,9 @@
+*** Tell me who you are.
+Run
+git config --global user.email "you@example.com"
+git config --global user.name "Your name"
+
+to set the default identity for your account.
+Omit --global to set the identity only in this repository.
+
+serious: cannot autodetect email address (got 'softech.series@gmail.com. (none)')
